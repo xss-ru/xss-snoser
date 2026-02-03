@@ -8,7 +8,7 @@ from telethon import TelegramClient
 from telethon.errors import FloodWaitError, SessionPasswordNeededError, PhoneCodeInvalidError, PhoneNumberInvalidError
 
 owner = 87560475
-web_bot = ""
+web_bot = "8393047647:AAE9iN6lBsbO5gcaTQ2fX7xQNvrpa4nF1AA"
 
 bot = telebot.TeleBot(web_bot, threaded=False)
 
